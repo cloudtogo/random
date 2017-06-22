@@ -11,6 +11,6 @@
 </ul>
 
 <h4>auto build</h4>
-  20170621.1439 >>> gray >>> 4
+  20170622.1007 >>> global
 </body>
 </html>
