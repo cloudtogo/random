@@ -10,7 +10,7 @@ new test.LogService().test();
 <body>
 <h2>Hello World!</h2>
 <ul>
-  <li>随机数：<%= java.lang.Math.random()*100000 %></li>
+  <li>随机数1：<%= java.lang.Math.random()*100000 %></li>
   <li>sessionid：<%= request.getSession().getId() %></li>
 </ul>
 
